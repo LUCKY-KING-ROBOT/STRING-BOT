@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/Its_venom_family"),
-         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/Venom_bolte_public"),
+        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/WORLD_FRIEND_143"),
+         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/SED_BOY_143"),
         ],
     ]
 
@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/ItzvenomXd/StringGenBot)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ᴍʀ ᴀʏᴜsʜ](https://t.me/Venom_bolte_public) !
+Sᴏᴜʀᴄᴇ : [💫ᴍy ɢʀᴏᴜᴩ💫](https://t.me/WORLD_FRIEND_143)
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ᴍʀ ꜱᴇᴅ-ʙᴏy](https://t.me/SED_BOY_143) !
     """
